@@ -27,7 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+
 🗄️ Backend и базы данных
 ![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-000000?style=flat&logo=payloadcms&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -53,20 +53,35 @@
 > Мини-бэкенд на Payload CMS с авторизацией, ролями, правами доступа и загрузкой медиафайлов.  
 > Включает сидер, защиту от эскалации прав, автоочистку связей и документацию.
 
+### 🍕 [pizza2](https://github.com/victorStrokov/pizza2)
+> TypeScript-приложение с корзиной, фильтрацией и динамическими компонентами.
+
+## 🍕 Деплой проекта
+
+### 🔗 [NextPizza — онлайн-приложение для заказа пиццы](https://nextpizza-nine.vercel.app/)
+
+> Современное приложение на **Next.js + TypeScript** с корзиной, фильтрацией, адаптивным интерфейсом и динамической маршрутизацией.  
+> Использует **Redux Toolkit**, **SCSS**, и серверный рендеринг.  
+> Развёрнуто на **Vercel** — быстро, надёжно и бесплатно.
+
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+
+
 ### 🧩 [crypto-TS](https://github.com/victorStrokov/crypto-TS)
 > TypeScript-приложение с логикой отображения криптовалют, фильтрацией и UI-компонентами.
 
 ### 🛍️ [Sneakers](https://github.com/victorStrokov/Sneakers)
 > Классический React-проект с каталогом товаров, корзиной и адаптивным интерфейсом.
 
-### 🍕 [pizza2](https://github.com/victorStrokov/pizza2)
-> TypeScript-приложение с корзиной, фильтрацией и динамическими компонентами.
 
 ### ⚡ [react-graphql](https://github.com/victorStrokov/react-graphql)
 > Фронтенд на React с интеграцией GraphQL-запросов и Apollo Client.
 
-### 🧪 [express-ts](https://github.com/victorStrokov/express-ts)
-> Backend на Express с TypeScript, роутингом и базовой структурой API.
+
 
 ---
 
