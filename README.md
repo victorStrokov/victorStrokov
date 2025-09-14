@@ -15,7 +15,7 @@
 - 🚀 Постоянно прокачиваю навыки, изучаю архитектуру, DevOps и CI/CD
 - 💼 Открыт к предложениям по фронтенд-разработке
 
-- ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorStrokov&show_icons=true&theme=default)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=default)
 
 ---
@@ -77,7 +77,7 @@
 - 💼 Telegram: [@IA_educada]()
 - 🌐 GitHub: [victorStrokov](https://github.com/victorStrokov)
 
----
+--- ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorStrokov&show_icons=true&theme=default)
 
 <p align="center">
   Спасибо, что заглянули! 😊<br>
