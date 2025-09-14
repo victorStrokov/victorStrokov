@@ -59,9 +59,6 @@
 ### 🧪 [express-ts](https://github.com/victorStrokov/express-ts)
 > Backend на Express с TypeScript, роутингом и базовой структурой API.
 
-### 🚀 [vite-ts](https://github.com/victorStrokov/vite-ts)
-> Стартовый шаблон на Vite + TypeScript для быстрых прототипов.
-
 ---
 
 
