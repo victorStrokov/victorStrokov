@@ -11,8 +11,8 @@
 
 - 🎯 Frontend Developer с фокусом на React, TypeScript и современный стек
 - 🛠 Реализовал полноценный backend на Payload CMS с авторизацией, ролями и загрузкой медиа
-- ⚙️ Работаю с REST и GraphQL, MongoDB, Express, Next.js
-- 🚀 Постоянно прокачиваю навыки и изучаю архитектуру, DevOps и CI/CD
+- ⚙️ Работаю с REST и GraphQL, MongoDB, Express, Next.js, Vite
+- 🚀 Постоянно прокачиваю навыки, изучаю архитектуру, DevOps и CI/CD
 - 💼 Открыт к предложениям по фронтенд-разработке
 
 ---
@@ -25,11 +25,16 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-000000?style=flat&logo=payloadcms&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ---
 
@@ -45,13 +50,20 @@
 ### 🛍️ [Sneakers](https://github.com/victorStrokov/Sneakers)
 > Классический React-проект с каталогом товаров, корзиной и адаптивным интерфейсом.
 
-### ⚡ [react-graphql](https://github.com/victorStrokov/react-graphql)
-> Фронтенд на React с интеграцией GraphQL-запросов и Apollo Client.
-
 ### 🍕 [pizza2](https://github.com/victorStrokov/pizza2)
 > TypeScript-приложение с корзиной, фильтрацией и динамическими компонентами.
 
+### ⚡ [react-graphql](https://github.com/victorStrokov/react-graphql)
+> Фронтенд на React с интеграцией GraphQL-запросов и Apollo Client.
+
+### 🧪 [express-ts](https://github.com/victorStrokov/express-ts)
+> Backend на Express с TypeScript, роутингом и базовой структурой API.
+
+### 🚀 [vite-ts](https://github.com/victorStrokov/vite-ts)
+> Стартовый шаблон на Vite + TypeScript для быстрых прототипов.
+
 ---
+
 
 ## 📫 Контакты
 
