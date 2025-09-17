@@ -16,7 +16,7 @@
 - 💼 Открыт к предложениям по фронтенд-разработке
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=tokyonight)
+![Top Langs](https://vercel.com/victor-strokovs-projects/github-readme-stats/8VTkK9t4FxFTtQcvGooaGVpem2Wt)
 
 ---
 
@@ -92,7 +92,7 @@
 - 💼 Telegram: [@IA_educada]()
 - 🌐 GitHub: [victorStrokov](https://github.com/victorStrokov)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=victorStrokov&show_icons=true&theme=tokyonight)
+![GitHub stats](https://vercel.com/victor-strokovs-projects/github-readme-stats/8VTkK9t4FxFTtQcvGooaGVpem2Wt)
 
 
 <p align="center">
