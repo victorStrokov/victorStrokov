@@ -14,11 +14,16 @@
 - ⚙️ Работаю с REST и GraphQL, MongoDB, Express, Next.js, Vite
 - 🚀 Постоянно прокачиваю навыки, изучаю архитектуру, DevOps и CI/CD
 - 💼 Открыт к предложениям по фронтенд-разработке
+![GitHub stats](https://github-readme-stats-virid-three-92.vercel.app/api?username=victorStrokov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats-virid-three-92.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=tokyonight&langs_count=8)
+
+![Pinned Repo](https://github-readme-stats-virid-three-92.vercel.app/api/pin/?username=victorStrokov&repo=pizza2&theme=tokyonight)
 
 
 <div align="center">
   <img
-    src="https://github-readme-stats-virid-three-92.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=360&cache_seconds=86400&v=1"
+    src="https://github-readme-stats-virid-three-92.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=360&cache_seconds=86400&v=1"
     alt="Top languages"
     height="165"
   />
