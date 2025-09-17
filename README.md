@@ -16,7 +16,7 @@
 - 💼 Открыт к предложениям по фронтенд-разработке
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=tokyonight)
 
 ---
 
