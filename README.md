@@ -17,13 +17,6 @@
 
 
 <div align="center">
-
-  <img
-    src="https://github-readme-stats-virid-three-92.vercel.app/api?username=victorStrokov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400&v=1"
-    alt="GitHub stats"
-    height="165"
-  />
-
   <img
     src="https://github-readme-stats-virid-three-92.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=360&cache_seconds=86400&v=1"
     alt="Top languages"
