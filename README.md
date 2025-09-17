@@ -20,7 +20,7 @@
 
 [![Pinned Repo](https://github-readme-stats-virid-three-92.vercel.app/api/pin/?username=victorStrokov&repo=nextpizza&theme=tokyonight&v=2)](https://nextpizza-nine.vercel.app/)
 
-[![NextPizza Preview](https://raw.githubusercontent.com/victorStrokov/victorStrokov/main/assets/nextpizza-preview.png)](https://nextpizza-nine.vercel.app/)
+[![NextPizza Preview](https://raw.githubusercontent.com/victorStrokov/victorStrokov/main/assets/nextpizza-preview1.png)](https://nextpizza-nine.vercel.app/)
 
 
 
