@@ -18,7 +18,8 @@
 
 ![Top Langs](https://github-readme-stats-virid-three-92.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=tokyonight&langs_count=8)
 
-![Pinned Repo](https://github-readme-stats-virid-three-92.vercel.app/api/pin/?username=victorStrokov&repo=pizza2&theme=tokyonight)
+[![Pinned Repo](https://github-readme-stats-virid-three-92.vercel.app/api/pin/?username=victorStrokov&repo=pizza2&theme=tokyonight)](https://nextpizza-nine.vercel.app/)
+
 
 
 <div align="center">
