@@ -92,7 +92,8 @@
 - 💼 Telegram: [@IA_educada]()
 - 🌐 GitHub: [victorStrokov](https://github.com/victorStrokov)
 
---- ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorStrokov&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=victorStrokov&show_icons=true&theme=tokyonight)
+
 
 <p align="center">
   Спасибо, что заглянули! 😊<br>
