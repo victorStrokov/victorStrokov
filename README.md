@@ -11,7 +11,7 @@
 
 - 🎯 Frontend Developer с фокусом на React, TypeScript и современный стек
 - 🛠 Реализовал полноценный backend на Payload CMS с авторизацией, ролями и загрузкой медиа
-- ⚙️ Работаю с REST и GraphQL, MongoDB, Express, Next.js, Vite
+- ⚙️ Работаю с REST и GraphQL, MongoDB, Express, Next.js
 - 🚀 Постоянно прокачиваю навыки, изучаю архитектуру, DevOps и CI/CD
 - 💼 Открыт к предложениям по фронтенд-разработке
 ![GitHub stats](https://github-readme-stats-virid-three-92.vercel.app/api?username=victorStrokov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
