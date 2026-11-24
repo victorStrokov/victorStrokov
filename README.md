@@ -1,116 +1,118 @@
-<h1 align="center">Привет, я Виктор 👋</h1>
+<h1 align="center">Виктор — Frontend-разработчик</h1>
 
 <p align="center">
-  Frontend‑разработчик, создающий современные интерфейсы с упором на масштабируемость и удобство.<br>
-  React • TypeScript • Payload CMS • MongoDB • Next.js • Docker
+  React · Next.js · TypeScript · Zustand · Tailwind · Prisma / PostgreSQL · Docker
+</p>
+
+<p align="center">
+  <a href="https://t.me/IA_educada">Telegram</a> ·
+  <a href="mailto:strokof2@gmail.com">Email</a> ·
+  <a href="https://github.com/victorStrokov">GitHub</a>
 </p>
 
 ---
 
-## 🧠 Обо мне
+## Обо мне
 
-- 🎯 Frontend Developer с фокусом на React, TypeScript и современный стек
-- 🛠 Реализовал полноценный backend на Payload CMS с авторизацией, ролями и загрузкой медиа
-- ⚙️ Работаю с REST и GraphQL, MongoDB, Express, Next.js
-- 🚀 Постоянно прокачиваю навыки, изучаю архитектуру, DevOps и CI/CD
-- 💼 Открыт к предложениям по фронтенд-разработке
-![GitHub stats](https://github-readme-stats-virid-three-92.vercel.app/api?username=victorStrokov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+Frontend-разработчик. Делаю не только интерфейсы, но и полный цикл:
+состояние, API, база данных, деплой.
 
-![Top Langs](https://github-readme-stats-virid-three-92.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=tokyonight&langs_count=8)
-
-[![Pinned Repo](https://github-readme-stats-virid-three-92.vercel.app/api/pin/?username=victorStrokov&repo=nextpizza&theme=tokyonight&v=2)](https://nextpizza-nine.vercel.app/)
-
-[![NextPizza Preview](https://raw.githubusercontent.com/victorStrokov/victorStrokov/main/assets/nextpizza-preview1.png)](https://nextpizza-nine.vercel.app/)
-
-
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-virid-three-92.vercel.app/api/top-langs/?username=victorStrokov&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=360&cache_seconds=86400&v=1"
-    alt="Top languages"
-    height="165"
-  />
-
-</div>
-
+- Каталоги с фасетными фильтрами, админ-панели, личные кабинеты, корзина и оплата
+- Next.js App Router: серверные и клиентские компоненты, server actions
+- Админки на 20+ разделов: роли и права доступа, таблицы, фильтры, загрузка медиа
+- REST API: состояния загрузки и ошибок, кеширование через TanStack Query
+- Docker, nginx, CI/CD на GitHub Actions, домены и HTTPS
+- Backend на Payload CMS: авторизация, роли, права, загрузка медиа
+- Открыт к предложениям по frontend-разработке
 
 ---
 
-## ⚙️ Стек технологий
+## Проекты
 
-🧑‍💻 Языки и фреймворки
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+### Платформа торгового каталога
 
-🗄️ Backend и базы данных
-![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-000000?style=flat&logo=payloadcms&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+`Next.js 16 · React 19 · TypeScript · Prisma · PostgreSQL · Tailwind · Zustand · Docker`
 
-🎨 Стилизация и UI
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+Коммерческий проект. Каталог с фасетными фильтрами (цена, размеры, материалы, цвета),
+админ-панель на 27 разделов, роли и права доступа, заявки с автоматическим распределением
+по менеджерам и журналом событий, загрузка изображений в объектное хранилище
+с оптимизацией, мониторинг ошибок и трейсинг.
 
-🛠️ Сборка и DevTools
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
+Деплой настроен на двух платформах — Vercel и Amvera — под собственным доменом.
+
+*Код закрыт — проект заказчика. Скриншоты по запросу.*
 
 ---
 
-## 📦 Проекты
+### 🍕 [NextPizza](https://nextpizza-nine.vercel.app) · [код](https://github.com/victorStrokov/nextpizza)
+
+`Next.js 14 · React 18 · TypeScript · Prisma · NextAuth · Zustand · React Hook Form + Zod · Tailwind`
+
+Интернет-магазин пиццы: каталог с фильтрацией, сортировкой и поиском, корзина,
+оформление заказа, авторизация и личный кабинет, загрузка изображений,
+формы с валидацией на Zod, письма через Resend.
+
+**[Открыть демо →](https://nextpizza-nine.vercel.app)**
+
+[![NextPizza](https://raw.githubusercontent.com/victorStrokov/victorStrokov/main/assets/nextpizza-preview1.png)](https://nextpizza-nine.vercel.app)
+
+---
+
+### ⚛️ [Pizza](https://github.com/victorStrokov/pizza2) — учебный проект
+
+`React · TypeScript · Redux Toolkit · React Router · SCSS`
+
+Стор на Redux Toolkit: слайсы корзины, фильтров и товаров, `createAsyncThunk`
+для запросов к API, селекторы, типизированные `RootState` и `AppDispatch`,
+сохранение корзины в localStorage. Поиск с дебаунсом, пагинация, сортировка,
+скелетоны загрузки.
+
+---
 
 ### 🔧 [payload-test-backend](https://github.com/victorStrokov/payload-test-backend)
-> Мини-бэкенд на Payload CMS с авторизацией, ролями, правами доступа и загрузкой медиафайлов.  
-> Включает сидер, защиту от эскалации прав, автоочистку связей и документацию.
 
-### 🍕 [pizza2](https://github.com/victorStrokov/pizza2)
-> приложение на React + TypeScript, созданное с помощью Create React App. Реализованы корзина, фильтрация товаров и динамические компоненты. Для стилизации используется SCSS. Сборка и оптимизация выполняются средствами CRA (Webpack, Babel). Проект можно запустить локально или развернуть на любом хостинге для React‑приложений.
+`Payload CMS · Node.js · REST / GraphQL`
 
-## 🍕 Деплой проекта
-
-### 🔗 [NextPizza — онлайн-приложение для заказа пиццы](https://nextpizza-nine.vercel.app/)
-
-Современное приложение для заказа пиццы на Next.js + TypeScript с корзиной, фильтрацией, адаптивным интерфейсом и динамической маршрутизацией. Использует Tailwind CSS для стилизации и встроенные возможности Next.js для серверного рендеринга. Развёрнуто на Vercel — быстро, удобно и бесплатно.
-
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-
-
-### 🧩 [crypto-TS](https://github.com/victorStrokov/crypto-TS)
-> TypeScript-приложение с логикой отображения криптовалют, фильтрацией и UI-компонентами.
-
-### 🛍️ [Sneakers](https://github.com/victorStrokov/Sneakers)
-> Классический React-проект с каталогом товаров, корзиной и адаптивным интерфейсом.
-
-
-### ⚡ [react-graphql](https://github.com/victorStrokov/react-graphql)
-> Фронтенд на React с интеграцией GraphQL-запросов и Apollo Client.
-
-
+Бэкенд на Payload CMS: авторизация, роли, права доступа, загрузка медиафайлов.
+Включает сидер данных, защиту от эскалации прав, автоочистку связей и документацию.
 
 ---
 
+### Другие проекты
+
+- **[crypto-TS](https://github.com/victorStrokov/crypto-TS)** — TypeScript-приложение для отображения криптовалют: фильтрация, UI-компоненты
+- **[Sneakers](https://github.com/victorStrokov/Sneakers)** — React-каталог товаров с корзиной и адаптивным интерфейсом
+- **[react-graphql](https://github.com/victorStrokov/react-graphql)** — React + Apollo Client, запросы и кеширование GraphQL
+
+---
+
+## Стек
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-2D3748?style=flat)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**Frontend** — React, Next.js (App Router), TypeScript, Zustand, Redux Toolkit, React Router, React Hook Form, Zod  
+**Стили и UI** — Tailwind CSS, SCSS, Radix UI, shadcn/ui  
+**Данные** — REST API, TanStack Query, Prisma, PostgreSQL, MongoDB, GraphQL  
+**Инфраструктура** — Docker, nginx, GitHub Actions, Vercel, Amvera, Sentry, Cloudflare R2  
+**Backend** — Node.js, Next.js API routes, server actions, Payload CMS
+
+---
 
 ## 📫 Контакты
 
-- 📧 Email: `strokof2@gmail.com`
-- 💼 Telegram: [@IA_educada]()
+- 📧 Email: [strokof2@gmail.com](mailto:strokof2@gmail.com)
+- 💬 Telegram: [@IA_educada](https://t.me/IA_educada)
 - 🌐 GitHub: [victorStrokov](https://github.com/victorStrokov)
 
-![GitHub stats](https://github-readme-stats-virid-three-92.vercel.app/api?username=victorStrokov&show_icons=true&theme=tokyonight)
-
-
 <p align="center">
-  Спасибо, что заглянули! 😊<br>
-  Если вам интересен мой код — буду рад сотрудничеству!
+  Открыт к предложениям по frontend-разработке — пишите в Telegram.
 </p>
-
