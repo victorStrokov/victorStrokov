@@ -67,17 +67,6 @@ Frontend-разработчик. Делаю не только интерфейс
 сохранение корзины в localStorage. Поиск с дебаунсом, пагинация, сортировка,
 скелетоны загрузки.
 
----
-
-### 🔧 [payload-test-backend](https://github.com/victorStrokov/payload-test-backend)
-
-`Payload CMS · Node.js · REST / GraphQL`
-
-Бэкенд на Payload CMS: авторизация, роли, права доступа, загрузка медиафайлов.
-Включает сидер данных, защиту от эскалации прав, автоочистку связей и документацию.
-
----
-
 ### Другие проекты
 
 - **[crypto-TS](https://github.com/victorStrokov/crypto-TS)** — TypeScript-приложение для отображения криптовалют: фильтрация, UI-компоненты
@@ -103,7 +92,7 @@ Frontend-разработчик. Делаю не только интерфейс
 **Стили и UI** — Tailwind CSS, SCSS, Radix UI, shadcn/ui  
 **Данные** — REST API, TanStack Query, Prisma, PostgreSQL, MongoDB, GraphQL  
 **Инфраструктура** — Docker, nginx, GitHub Actions, Vercel, Amvera, Sentry, Cloudflare R2  
-**Backend** — Node.js, Next.js API routes, server actions, Payload CMS
+**Backend** — Node.js, Next.js API routes, server actions
 
 ---
 
@@ -114,5 +103,5 @@ Frontend-разработчик. Делаю не только интерфейс
 - 🌐 GitHub: [victorStrokov](https://github.com/victorStrokov)
 
 <p align="center">
-  Открыт к предложениям по frontend-разработке — пишите в Telegram.
+ Открыт к предложениям по фронтенд- и фулстек-разработке — пишите в Telegram.
 </p>
